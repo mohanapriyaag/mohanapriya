@@ -1,8 +1,10 @@
 <div align="center">
 
-# ✨ Hi, I'm Mohana Priya 👋
+# 👋 Hi, I'm Mohana Priya
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=800&lines=Electronics+%26+Communication+Engineering+Student;Java+Developer+%7C+IoT+Enthusiast;Embedded+Systems+%7C+Web+Developer;Always+Learning+Something+New+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=2563EB&center=true&vCenter=true&width=800&lines=Electronics+%26+Communication+Engineering+Student;Java+Developer;Frontend+Web+Developer;Always+Learning+New+Technologies" />
+
+<img src="https://komarev.com/ghpvc/?username=mohanapriyaag&label=Profile%20Views&color=2563EB&style=for-the-badge"/>
 
 </div>
 
@@ -10,80 +12,49 @@
 
 # 👩‍💻 About Me
 
-🎓 Third Year Electronics & Communication Engineering Student
+🎓 **B.E. Electronics & Communication Engineering** (2023 – 2027)
 
-💻 Passionate about Java Development, IoT, Embedded Systems, and Web Technologies
+💻 Passionate about **Java Programming** and **Web Development**
 
-🚀 Interested in solving real-world problems using Hardware + Software integration
+📚 Currently improving my **Data Structures & Algorithms** and **Database Management** skills
 
-📚 Currently learning Data Structures & Algorithms, React.js, Node.js, and Cloud Computing
+🚀 Interested in developing efficient, user-friendly applications and continuously learning new technologies
 
-💡 Love building innovative projects that combine Electronics with Software
+🤝 Strong problem-solving, teamwork, and communication skills
 
 ---
 
 # 🌱 Currently Learning
 
-- ☕ Advanced Java
+- ☕ Java Programming
 - 📚 Data Structures & Algorithms
-- 🌐 React.js & Node.js
-- ☁️ Cloud Computing
-- 🤖 IoT & Embedded Systems
-- 🛠 PCB Design & STM32 Development
+- 🌐 HTML, CSS & JavaScript
+- 🗄️ SQL & Database Management
+- 💡 Problem Solving
 
 ---
 
-# 💻 Languages
+# 💻 Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,mysql,c" />
-</p>
+<p align="center">
 
----
-
-# 🌐 Web Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
-</p>
-
----
-
-# ⚙️ Embedded & IoT
-
-<p>
-
-<img src="https://img.shields.io/badge/ESP32-red?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/STM32-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Blynk-IoT-green?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/MQTT-orange?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=java,c,html,css,javascript,mysql"/>
 
 </p>
 
----
+<p align="center">
 
-# 🛠 Tools & Platforms
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
-<p>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 
-</p>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
-<p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/Xilinx%20Vivado-red?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Tinkercad-orange?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/MATLAB-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/LeetCode-yellow?style=for-the-badge&logo=leetcode"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 </p>
 
@@ -93,35 +64,29 @@
 
 ## ❤️ Secure Sparkle
 
-Smart wearable heart-rate monitoring system using ESP32, PPG Sensor and Blynk IoT for real-time health monitoring.
+A wearable heart-rate monitoring system developed using IoT concepts for real-time monitoring.
 
 ---
 
 ## ⚡ Intelligent UPS Monitoring System
 
-Real-time Industrial UPS Monitoring and Predictive Maintenance System using STM32, ESP8266, IoT Dashboard, MQTT and Cloud.
+A smart industrial UPS monitoring solution with real-time monitoring and predictive maintenance.
 
 ---
 
 ## 🛒 E-Commerce Database Platform
 
-Database-driven web application developed using HTML, CSS, SQL and Java concepts.
+A web-based database management application developed using HTML, CSS, and SQL.
 
 ---
 
-## 💧 Acqua Gauge Pro
-
-Smart IoT Water Level Monitoring System with real-time alerts and cloud monitoring.
-
----
-
-# 📈 GitHub Stats
+# 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=mohanapriyaag&show_icons=true&theme=tokyonight&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mohanapriyaag&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohanapriyaag&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohanapriyaag&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
@@ -131,17 +96,17 @@ Smart IoT Water Level Monitoring System with real-time alerts and cloud monitori
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=mohanapriyaag&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=mohanapriyaag&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📊 Contribution Graph
+# 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohanapriyaag&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohanapriyaag&theme=github-dark&hide_border=true"/>
 
 </div>
 
@@ -151,26 +116,39 @@ Smart IoT Water Level Monitoring System with real-time alerts and cloud monitori
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mohanapriyaag&theme=algolia&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=mohanapriyaag&theme=algolia&row=1&column=7&margin-w=15"/>
 
 </div>
 
 ---
 
-# 📫 Connect With Me
+# 📈 Contribution Activity
+
+```text
+✔ Daily Java Practice
+✔ HTML Projects
+✔ CSS Components
+✔ JavaScript Mini Projects
+✔ SQL Practice
+✔ Regular Git Commits
+```
+
+---
+
+# 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/mohanapriyaag">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=github" />
 </a>
 
 <a href="https://www.linkedin.com/in/mohanapriyaag/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 <a href="mailto:mohanapriyaaganesh@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
 </div>
@@ -179,12 +157,10 @@ Smart IoT Water Level Monitoring System with real-time alerts and cloud monitori
 
 <div align="center">
 
-## 💡 Quote
+### 💙 Thanks for visiting my profile!
 
-> *"Innovation begins where curiosity meets determination."*
+*"Code • Learn • Build • Grow"*
 
-### ⭐ Thanks for visiting my profile!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:60A5FA&height=120&section=footer"/>
 
 </div>
