@@ -1,128 +1,80 @@
-<div align="center">
-
 # 👋 Hi, I'm Mohana Priya
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=2563EB&center=true&vCenter=true&width=850&lines=Electronics+%26+Communication+Engineering+Student;Java+Developer;Frontend+Web+Developer;Always+Learning+New+Technologies" />
-
-<img src="https://komarev.com/ghpvc/?username=mohanapriyaag&label=Profile+Views&color=2563EB&style=for-the-badge"/>
-
-</div>
-
----
-
-# 👩‍💻 About Me
-
-🎓 **B.E. Electronics & Communication Engineering** (2023 – 2027)
-
-💻 Passionate about **Java Programming** and **Web Development**
-
-🌱 Currently improving my **Data Structures & Algorithms**, **SQL**, and **Problem Solving** skills
-
-🚀 Interested in developing efficient and user-friendly software applications
-
-🤝 Quick learner with strong communication, teamwork, and analytical skills
-
----
-
-# 🌱 Currently Learning
-
-- ☕ Java
-- 📚 Data Structures & Algorithms
-- 🌐 HTML, CSS & JavaScript
-- 🗄️ SQL & Database Management
-
----
-
-# 💻 Tech Stack
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,c,html,css,javascript,mysql"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=6C63FF&center=true&vCenter=true&width=800&lines=Electronics+%26+Communication+Engineering+Student;Java+Developer;Frontend+Web+Developer;Problem+Solver;Always+Learning+New+Things"/>
 </p>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
+<img src="https://komarev.com/ghpvc/?username=mohanapriyaag&label=Profile%20Views&style=for-the-badge&color=6C63FF"/>
 </p>
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 About Me
 
-## ❤️ Secure Sparkle
+- 🎓 B.E. Electronics & Communication Engineering (2023–2027)
+- 💻 Passionate about Java & Frontend Development
+- 🌱 Currently learning DSA and SQL
+- 🎯 Interested in building practical software projects
+- 🤝 Strong teamwork and communication skills
 
-A wearable heart-rate monitoring system developed using IoT concepts for real-time monitoring.
+## 💻 Tech Stack
 
----
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,c,html,css,javascript,mysql&perline=6"/>
+</p>
 
-## ⚡ Intelligent UPS Monitoring System
+## 🌱 Currently Learning
 
-An industrial UPS monitoring solution for real-time monitoring and predictive maintenance.
+- Java
+- Data Structures & Algorithms
+- HTML, CSS & JavaScript
+- SQL
 
----
+## 🚀 Featured Projects
 
-## 🛒 E-Commerce Database Platform
+### ❤️ Secure Sparkle
+Wearable heart-rate monitoring system using IoT concepts.
 
-A web-based application developed using HTML, CSS, and SQL for efficient product and order management.
+### ⚡ Intelligent UPS Monitoring System
+Industrial UPS monitoring with real-time monitoring and predictive maintenance.
 
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=mohanapriyaag&theme=github-dark-blue&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohanapriyaag&theme=github-dark&hide_border=true&area=true"/>
-
-</div>
+### 🛒 E-Commerce Database Platform
+HTML, CSS and SQL based web application.
 
 ---
 
-# 🌐 Connect With Me
+## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mohanapriyaag&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohanapriyaag&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-<a href="https://github.com/mohanapriyaag">
-<img src="https://skillicons.dev/icons?i=github" width="50"/>
-</a>
+## 🔥 GitHub Streak
 
-<a href="www.linkedin.com/in/mohanapriyaag">
-<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
-</a>
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=mohanapriyaag&theme=tokyonight&hide_border=true"/>
+</p>
 
-<a href="mailto:mohanapriyaaganesh@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="50"/>
-</a>
+## 📈 Contribution Graph
 
-</div>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohanapriyaag&theme=tokyo-night&hide_border=true&area=true"/>
+</p>
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://github.com/mohanapriyaag"><img src="https://skillicons.dev/icons?i=github"/></a>
+<a href="https://www.linkedin.com/in/mohanapriyaag"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="mailto:mohanapriyaaganesh@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+</p>
 
 ---
 
-<div align="center">
+<p align="center"><b>"Code • Learn • Build • Grow"</b></p>
 
-## ⭐ Thanks for Visiting!
-
-### *"Code • Learn • Build • Grow"*
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:60A5FA&height=120&section=footer"/>
-
-</div>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9FF&height=120&section=footer"/>
+</p>
