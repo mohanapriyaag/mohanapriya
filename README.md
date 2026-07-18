@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Mohana Priya
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=2563EB&center=true&vCenter=true&width=800&lines=Electronics+%26+Communication+Engineering+Student;Java+Developer;Frontend+Web+Developer;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=2563EB&center=true&vCenter=true&width=850&lines=Electronics+%26+Communication+Engineering+Student;Java+Developer;Frontend+Web+Developer;Always+Learning+New+Technologies" />
 
-<img src="https://komarev.com/ghpvc/?username=mohanapriyaag&label=Profile%20Views&color=2563EB&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=mohanapriyaag&label=Profile+Views&color=2563EB&style=for-the-badge"/>
 
 </div>
 
@@ -16,30 +16,27 @@
 
 💻 Passionate about **Java Programming** and **Web Development**
 
-📚 Currently improving my **Data Structures & Algorithms** and **Database Management** skills
+🌱 Currently improving my **Data Structures & Algorithms**, **SQL**, and **Problem Solving** skills
 
-🚀 Interested in developing efficient, user-friendly applications and continuously learning new technologies
+🚀 Interested in developing efficient and user-friendly software applications
 
-🤝 Strong problem-solving, teamwork, and communication skills
+🤝 Quick learner with strong communication, teamwork, and analytical skills
 
 ---
 
 # 🌱 Currently Learning
 
-- ☕ Java Programming
+- ☕ Java
 - 📚 Data Structures & Algorithms
 - 🌐 HTML, CSS & JavaScript
 - 🗄️ SQL & Database Management
-- 💡 Problem Solving
 
 ---
 
 # 💻 Tech Stack
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=java,c,html,css,javascript,mysql"/>
-
 </p>
 
 <p align="center">
@@ -70,13 +67,13 @@ A wearable heart-rate monitoring system developed using IoT concepts for real-ti
 
 ## ⚡ Intelligent UPS Monitoring System
 
-A smart industrial UPS monitoring solution with real-time monitoring and predictive maintenance.
+An industrial UPS monitoring solution for real-time monitoring and predictive maintenance.
 
 ---
 
 ## 🛒 E-Commerce Database Platform
 
-A web-based database management application developed using HTML, CSS, and SQL.
+A web-based application developed using HTML, CSS, and SQL for efficient product and order management.
 
 ---
 
@@ -106,32 +103,9 @@ A web-based database management application developed using HTML, CSS, and SQL.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohanapriyaag&theme=github-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohanapriyaag&theme=github-dark&hide_border=true&area=true"/>
 
 </div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mohanapriyaag&theme=algolia&row=1&column=7&margin-w=15"/>
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-```text
-✔ Daily Java Practice
-✔ HTML Projects
-✔ CSS Components
-✔ JavaScript Mini Projects
-✔ SQL Practice
-✔ Regular Git Commits
-```
 
 ---
 
@@ -140,15 +114,15 @@ A web-based database management application developed using HTML, CSS, and SQL.
 <div align="center">
 
 <a href="https://github.com/mohanapriyaag">
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=github" width="50"/>
 </a>
 
-<a href="https://www.linkedin.com/in/mohanapriyaag/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<a href="www.linkedin.com/in/mohanapriyaag">
+<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
 </a>
 
 <a href="mailto:mohanapriyaaganesh@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<img src="https://skillicons.dev/icons?i=gmail" width="50"/>
 </a>
 
 </div>
@@ -157,10 +131,10 @@ A web-based database management application developed using HTML, CSS, and SQL.
 
 <div align="center">
 
-### 💙 Thanks for visiting my profile!
+## ⭐ Thanks for Visiting!
 
-*"Code • Learn • Build • Grow"*
+### *"Code • Learn • Build • Grow"*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:60A5FA&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:60A5FA&height=120&section=footer"/>
 
 </div>
