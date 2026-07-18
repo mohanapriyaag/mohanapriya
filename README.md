@@ -77,18 +77,6 @@ A web-based application developed using HTML, CSS, and SQL for efficient product
 
 ---
 
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mohanapriyaag&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohanapriyaag&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
----
-
 # 🔥 GitHub Streak
 
 <div align="center">
