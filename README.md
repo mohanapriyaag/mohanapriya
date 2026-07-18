@@ -165,11 +165,11 @@ Smart IoT Water Level Monitoring System with real-time alerts and cloud monitori
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/mohanapriyaag/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:mohanapriyaaganesh@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
@@ -187,4 +187,4 @@ Smart IoT Water Level Monitoring System with real-time alerts and cloud monitori
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=120&section=footer"/>
 
-</div># mohanapriya
+</div>
